@@ -1,0 +1,30 @@
+﻿
+
+@{
+    Html.RenderPartial("~/Views/Chamado/_M_DescricaoChamado.cshtml");
+
+}
+
+<div class="modal fade" data-backdrop="static" id="qualProjeto" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="mymodallabel">Selecione o Projeto abaixo:</h4>
+            </div>
+            <div class="modal-body">
+                <p>Escolha o sistema:</p>
+                <div class="form-group">
+                    <select id="SystemDropDown" name="Sistema">
+                        <option value='0'>Escolha</option>
+                        <option value='Sicob'>Sicob</option>
+                        <option value='Capgiro'>Capgiro</option>
+                        <option value='Outros'>Outros</option>
+                    </select>
+                </div>      
+                
+                <button type="button" style="max-width:50%" class="form-control" id="descricaoChamado" name="descricaoChamado" data-toggle="modal" data-target="#descricaoChamado" data-dismiss="modal"> Avançar </button>                                       
+            </div>           
+        </div>
+    </div>
+</div>

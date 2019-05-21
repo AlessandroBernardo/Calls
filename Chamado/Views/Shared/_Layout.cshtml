@@ -1,0 +1,93 @@
+﻿@using Util;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Html.IncludeVersionedJs("/Scripts/_Shared.js")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+
+    @*<div class="overlay">
+        <div class="load">
+            <img src="~/images/carregando.gif" alt="Carregando..." />
+        </div>
+    </div>*@
+
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Chamados TI DEPARTAMENTAL", "Index", "Home", null, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">*@
+
+
+    <div class="navbar navbar-default navbar-fixed-top bf-color" style="border: none;">
+        <div class="container container-fluid" style="width: 100%; ">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="nav navbar-nav">
+                    <a href=@(Request.FilePath.IndexOf("/Chamado/Index") >= 0 ? "../Home/Login" : "../Chamado/Index")>
+                        <img src="@Url.Content("~/images/Logo.png")" />
+                    </a>
+                </div>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li style="background-color: #f6f6f6;">@Html.ActionLink("Home", "Index", "Home")</li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        @Html.Hidden("Session", Session.Timeout)
+                        <li class="navbar-text" style="color:white;">Sessão: <span id="lblSession"></span></li>
+                        <li class="navbar-text" style="color:white;"><b>Olá, @User.Identity.Name!</b></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content" style="padding-top:55px;">
+
+        @RenderBody()
+        <hr />
+        <div id="dlgAviso" title="Aviso">
+            <span id="spnAviso"></span>
+        </div>
+        <footer style="text-align:center;">
+            <p>&copy; @DateTime.Now.Year - Bradesco Financiamentos<br />TI Departamental - versão @typeof(Chamado.MvcApplication).Assembly.GetName().Version</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/chamados")
+   
+    @RenderSection("scripts", required: false)
+</body>
+</html>

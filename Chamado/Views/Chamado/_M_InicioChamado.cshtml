@@ -1,0 +1,236 @@
+﻿@using Entity;
+@using Util;
+
+@*@{
+        Html.RenderPartial("~/Views/Chamado/_M_EstagioProjeto.cshtml");
+    }*@
+
+<div class="modal fade" data-backdrop="static" id="inicioChamado" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="mymodallabel">Nos diga o motivo da solicitação:</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-inline">
+                    <button type="button" style="max-width:50%; color: red" class="form-control" id="erro_problema" name="erro_problema" data-toggle="modal" onclick="motivoChamado('erro_problema')"> Erro ou problema</button>
+                    <button type="button" style="max-width:50%; color: blue" class="form-control" id="duvida_consulta" name="duvida_consulta" data-toggle="modal" onclick="motivoChamado('duvida_consulta')"> Dúvida ou consulta</button>
+                </div>
+            </div>
+            <div class="modal-footer" >
+                <div class="form-inline">
+                    <button type="button" data-dismiss="modal"> Cancelar </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" data-backdrop="static" id="estagioProj" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+                <div id="divPMotivo">
+                    <label>Certo, você tem um(a): </label>
+                    <h5 id="h5PMotivo"></h5>
+                </div>
+
+                <h4 class="modal-title" id="mymodallabel">Agora nos diga, o sistema em uso está em qual fase?</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-inline">
+                    <button type="button" style="max-width: 50%; color: green" class="form-control" id="piloto_homol" name="piloto_homol" data-toggle="modal" data-dismiss="modal" onclick="estagioProj('piloto_homol')"> Piloto ou homologação</button>
+                    <button type="button" style="max-width: 50%; color: red" class="form-control" id="producao" name="producao" data-toggle="modal" data-dismiss="modal" onclick="estagioProj('producao')"> Produção</button>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="form-inline">
+                    <button type="button" class="pull-left" data-dismiss="modal"> Cancelar </button>
+                    <button type="button" id="voltaMotivo"> Voltar </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" data-backdrop="static" id="qualProj" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+                @*<div id="divPMotivoInQj"> </div>*@
+
+                @*<div id="h5pmotivoinqj"></div>*@
+
+                <div id="divMotivoInQj">
+                    <label>certo, você tem um(a): </label>
+                    <h5 id="h5MotivoInQj"></h5>
+                </div>
+
+                <div id="divPEstagProj">
+                    <label> e é em um sistema em: </label>
+                    <h5 id="h5PEstagProj"></h5>
+                </div>
+                @*<h4 class="modal-title" id="mymodallabel">Os sistemas que temos nessa condição:</h4>*@
+            </div>
+            <div class="modal-body">
+
+                
+                <p>Os sistemas nessa condição são os abaixo, nos diga qual:</p>
+
+                <div class="form-group">
+                    <select id="SystemDropDownEscolha" name="Sistema">
+                        <option value='teste'>Escolha</option>
+                        <option value='Sicob'>Sicob</option>
+                        <option value='Capgiro'>Capgiro</option>
+                        <option value='Outros'>Outros</option>
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="pull-left" data-dismiss="modal"> Cancelar </button>
+                <button type="button" id="voltaEstagioProj" data-dismiss="modal"> Voltar </button>
+                <button type="button" id="goDescricaoChamado" data-dismiss="modal" onclick="descricao()"> Avançar </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" data-backdrop="static" id="modalDescricaoChamado" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                
+                <div id="divMotivoInDescr">
+                    <label>certo, você tem um(a): </label>
+                    <h5 id="h5MotivoInDescr"></h5>
+                </div>
+
+                <div id="divEstagProjInDescr">
+                    <label> e é em um sistema em: </label>
+                    <h5 id="h5EstagProjInDescr"></h5>
+                </div>
+
+                <div id="divProj">
+                    <label> e agora sabemos que é no sistema/projeto : </label>
+                    <h5 id="h5PProj"></h5>
+                </div>
+                
+                
+                <h4 class="modal-title">Vamos lá, nos diga mais sobre seu problema: </h4>
+            </div>
+            <div class="modal-body">
+                <form @*method="post" action="../chamado/create"*@>
+
+                    <div class="form-group">
+                        <label for="tela">Qual tela?</label>
+                        <textarea required class="form-control" style="max-width:100%" id="qualTela" name="descricaoTela" placeholder="exemplo: tela de consulta de contratos"></textarea>
+                    </div>
+                    
+                    @*div onde são carregados os botões com text para o usuário descrever suas ações até o erro*@                  
+                    <div class="drag-drop clearfix;  form-group" id="multidescricao">
+
+
+                        
+                        @*preciso fazer o botão finalizar ficar no fim
+                        esse botão fará com que o conteúdo da div seja carregado no campo descrição*@  
+                        
+                    </div>
+                    <button class="form-group" style="position:relative" id="fimMultidescricao"> Finalizar </button>
+
+                    <div class="form-group">
+                        <label for="descricao">descricao:</label>
+                        <textarea required class="form-control" style="max-width:100%" rows="5" id="descricaoTexto" name="descricaoName" placeholder="nos detalhe os passos até o problema acontecer, por exemplo: cliquei no botão x, depois na opção y..."></textarea>
+                    </div>
+
+                    <div id="acoesDivList">
+                        <p id="labelAcoes">Suas ações foram: </p>
+                        <div id="act"> </div>
+                    </div>
+
+                    <p>Se facilitar, selecione as opções passo a passo:</p>
+
+                    <div class="form-group">
+                        <select id="DropDAcoes" name="Acoes">
+                            <option value='00'>Selecione...</option>
+                            <option value='01'>Loguei no sistema</option>
+                            <option value='02'>Apertei o botão</option>
+                            <option value='03'>Selecionei o menu</option>
+                            <option value='04'>Carreguei o arquivo</option>
+                        </select>
+                    </div>
+
+                    @*preciso buscar do banco (ou Enum) o nome dos botões e criá-los dinamicamente cada qual com um id? (id tbm virá do banco?)*@
+                    
+                    <div id="btnAcoes" class="form-inline">
+
+                       
+
+                        <button type="button" id="lns" style="background-color: green" class="btn btn-primary btn-xs">Loguei no sistema</button>
+                        <button type="button" id="aob" class="btn btn-primary btn-xs">apertei o botão</button>
+                        <button type="button" id="sao" class="btn btn-primary btn-xs">selecionei a opção</button>
+                        <button type="button" id="ent" class="btn btn-primary btn-xs">entrei na tela</button>
+                        <button type="button" id="cnm" class="btn btn-primary btn-xs">cliquei no menu</button>
+
+                    </div>
+
+                @*ai preciso no JS espera o click desses botões e fazer a mesma coisa que aquele ON change faz, criar um campo para o cara digitar e ser arrasta e solta*@
+
+                    
+                    <p></p>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="pull-left" data-dismiss="modal"> Cancelar </button>
+                <button type="button" id="voltaQualProj" data-dismiss="modal"> Voltar </button>
+                <button type="button" id="goAnexos" data-toggle="modal" data-dismiss="modal" onclick="insereAnexo()"> Avançar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@*<div id="asd" class='row'>
+    <label class='col-sm-4 col-form-label'> 
+    <button type='button' id="+ x +" class='btn btn-primary btn-xs'>"+ x +" </button> 
+    </label><div class='col-sm-8'>
+    <input class='form-control' id="+ x.replace(/ /g,'') +" type='text' />
+    </div>
+</div>*@
+
+
+
+    <div class="modal fade" data-backdrop="static" id="modalAnexos" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="mymodallabel">Insira o(s) print(s) da(s) tela(s) com o(s) erro(s):</h4>
+                </div>
+                <div class="modal-body">
+                    @*<div class="form-group">*@
+                            
+                    
+                            @Html.Partial("~/Views/Shared/_Anexo.cshtml")
+                    
+                            
+                            @*<form name="nome_do_form" enctype="multipart/form-data">
+                            
+                            <input type="file" id="arquivo" name="arquivo" />
+                            <p></p>
+                            <input type="button"  class="btn-success" value="Salvar e enviar Chamado" id="enviaChamado" />
+                        </form>*@
+                    @*</div>*@
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="voltaDescricao" data-dismiss="modal"> Voltar </button>
+                </div>
+            </div>
+        </div>
+    </div>

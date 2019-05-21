@@ -1,0 +1,86 @@
+﻿@model Chamado.Models.Chamado
+
+@{
+    ViewBag.Title = "Index";
+
+    //Html.RenderPartial("~/Views/Chamado/_M_NovoChamado.cshtml");
+    Html.RenderPartial("~/Views/Chamado/_M_Editar.cshtml");
+    Html.RenderPartial("~/Views/Chamado/_M_InicioChamado.cshtml");
+    //Html.RenderPartial("~/Views/Chamado/MeusChamados.cshtml");
+
+}    
+
+<p></p>
+<div class="row">
+    <div class="col-md-3" style="left: 3px; width: 213.5px; padding-left: 10px; border-left-width: 0px;">
+        <a href="#" class="btn btn-lg btn-success" data-toggle="modal" data-target="#inicioChamado">Abrir Novo Chamado</a>
+    </div>
+    <p></p>
+    <div class="col-md-4">
+        <input type="button" class="btn btn-primary" value="Ver Meus Chamados" onclick="MeusChamados()" />
+    </div>
+
+    @*<div>@using (Html.BeginForm())
+        {
+            <p>
+                Find by name: @Html.TextBox("SearchString")
+                <input class="btn"   type="submit" value="Search" />
+            </p>
+        }</div>*@
+    <p></p>
+    <div class="col-md-4">
+        @*<label for="filtro">filtro</label>*@
+        <form>
+            <fieldset class="form-group col-md-10">
+                <input required type="text" class="form-control" id="filtro" name="filtro" placeholder="Buscar por nº de chamado">
+            </fieldset>
+            <fieldset class="form-group col-md-1">
+                <input type="button" class="btn-primary" value="buscar" id="salvar" onclick="ChamadosPorFiltro()" />
+            </fieldset>
+            <span id="msg" style="color:red;" />
+        </form>
+    </div>   
+</div>
+
+
+@*<form role="form">
+        <div class="form-group">
+            <div class="input-group">
+                <input type="text" class="form-control" id="searchBar" placeholder="nº Chamado:" />
+                <span class="input-group-btn">
+                        <button type="submit" class="btn btn-info"  value="Procurar" >
+                                <span class="glyphicon glyphicon-search" ></span>
+                        </button>
+                </span>
+            </div>
+        </div>
+    </form>*@
+
+
+@*<a id="chamaModal" class="btn btn-lg btn-success" data-toggle="modal" data-target="#modalEditarChamado" onclick="ModalEditar()">MODAL</a>*@
+@*<input type="button" class="btn btn-primary" value="Meus chamados" onclick="location.href='@Url.Action("MeusChamados", "Chamado")'" />*@
+@*<input type="button" class="btn btn-warning" value="Novo Chamado" onclick="location.href='@Url.Action("_Modal", "Chamado")'" />*@
+@*<a href="#" class="btn btn-lg btn-success" data-toggle="modal" data-target="#meusChamados"> Ver Chamados</a>*@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<input id="chamaModal" type="button" class="btn btn-primary" value="Abre Modal" onclick="ChamaModal()" />*@
+
+@*<script src="~/scripts/chamados.js"></script>*@
+
+
+
+<div id="meusChamados"> </div>

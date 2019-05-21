@@ -1,0 +1,41 @@
+﻿@*@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}*@
+
+@model Chamado.Models.Chamado
+
+<h3>Chamado enviado com sucesso, o número deste atendimento é: bratifin+idChamado+2019 </h3>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Motivo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sistema)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Usuario)
+            </th>*@
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayFor(model => model.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Motivo)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Sistema)
+        </td>
+        @*<td>
+                @Html.DisplayFor(modelItem => item.Usuario)
+            </td>*@
+    </tr>
+
+</table>
+

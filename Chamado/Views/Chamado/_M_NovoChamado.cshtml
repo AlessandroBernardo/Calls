@@ -1,0 +1,55 @@
+﻿
+
+
+<div class="modal fade" id="novoChamado" tabindex="-1" role="dialog" aria-labelledby="basicmodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="mymodallabel">vamos lá, nos diga mais sobre seu problema: </h4>
+            </div>
+            <div class="modal-body">
+                <form method="post" action="../chamado/create">
+                    <div class="form-group">
+                        @*<label for="motivo">motivo:</label>
+                        <input type="text" style="max-width:100%" class="form-control" id="motivo" name="motivo" placeholder="exemplo: erro ao salvar | não consigo acessar" required>*@
+                      <label for="erro_problema"> Você está com um: </label>
+                        <button type="button" style="max-width:50%" class="form-control" id="erro_problema" name="erro_problema"> Erro ou problema</button>
+                        <button type="button" style="max-width:50%" class="form-control" id="duvida_consulta" name="duvida_consulta"> Dúvida ou consulta</button>                        
+                    </div>                   
+                    
+                    <label>em qual sistema?</label>
+                    <div class="form-group">
+                        <select id="systemdropdown" name="sistema" required>
+                            <option value='0'>escolha</option>
+                            <option value='sicob'>sicob</option>
+                            <option value='capgiro'>capgiro</option>
+                            <option value='outros'>outros</option>
+                        </select>
+                    </div>
+
+                    
+                    <div class="form-group">
+                        <label for="descricao">descricao:</label>
+                        <textarea required class="form-control" style="max-width:100%" rows="5" id="descricao" name="descricao" placeholder="nos detalhe os passos até o problema acontecer, por exemplo: cliquei no botão x, depois na opção y..."></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        @{
+                            Html.RenderPartial("~/Views/Chamado/_InsereAnexo.cshtml");
+                        }
+                    </div>            
+
+                    <input type="submit" class="btn-primary" value="salvar" id="salvar" />
+                    <span id="msg" style="color:red;" />                    
+                </form>
+
+            </div>
+            @*<div class="modal-footer">
+                    <input type="submit" class="btn-primary" value="salvar" id="salvar" />
+                    <button type="button" class="btn btn-default" data-dismiss="modal">close</button>
+                    <button type="button" class="btn btn-primary">save changes</button>
+                </div>*@
+        </div>
+    </div>
+</div>

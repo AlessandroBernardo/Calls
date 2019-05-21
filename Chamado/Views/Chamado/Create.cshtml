@@ -1,0 +1,153 @@
+﻿@model Chamado.Models.Chamado
+
+@{
+    ViewBag.Title = "Abrir Chamado";
+    
+}
+
+<h2>Create</h2>
+
+<form method="post" action="../Chamado/Create">
+
+    <p>Escolha o sistema:</p>
+    <div class="form-group">
+        <select id="SystemDropDown" name="Sistema">
+            <option value='0'>Escolha</option>
+            <option value='Sicob'>Sicob</option>
+            <option value='Capgiro'>Capgiro</option>
+            <option value='Outros'>Outros</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Motivo">Motivo</label>
+        <input type="text" class="form-control" id="Motivo" name="Motivo" placeholder="Motivo" required>
+    </div>
+    <div class="form-group">
+        <label for="Descricao">Descricao</label>
+        <input type="text" class="form-control" id="Descricao" name="Descricao" placeholder="Descricao">
+    </div>
+
+    
+
+    @*<div class="form-group">
+        @Html.LabelFor(m => m.ImageUpload, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.ImageUpload, new { type = "file", @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.ImageUpload, "", new { @class = "text-danger" })
+        </div>
+    </div>*@  
+
+
+    <input type="submit" class="btn-primary" value="Salvar" id="Salvar" />
+    <span id="msg" style="color:red;" />
+       
+    @*<div class="form-group">
+            <label for="exampleInputFile">Anexar print do erro</label>
+            <input type="file" id="Anexo">
+            <p class="help-block">Apenas .JPG | JPEG</p>
+        </div>*@
+    @*<div class="checkbox">
+            <label>
+                <input type="checkbox"> Check me out
+            </label>
+        </div>*@
+    @*<button type="submit" class="btn btn-default" onclick="">Submit</button>*@
+    @*<button type="submit" class="btn btn-default" id="Salvar">Submit</button>*@
+    
+</form>
+
+
+<div id="divResultado">
+  
+        
+    
+ </div>
+
+
+
+
+
+@*@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>ChamadoModel</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Descricao, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Descricao)
+                    @Html.ValidationMessageFor(model => model.Descricao)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }*@
+
+<div>
+    @Html.ActionLink("Back to List", "Details")
+</div>
+
+@section Scripts {
+    @*@Scripts.Render("~/bundles/jqueryval")*@
+
+    <script>
+
+        //$('#Salvar').click(function () {
+        //    var url = "/Chamado/Create/";
+        //    var objChamado = {
+        //        motivo: $("#Motivo").val(),
+        //        sistema: $("#SystemDropDown").val(),
+        //        descricao: $("#Descricao").val()
+        //    };
+        //    $.post(url, objChamado, function (data) { }
+        //    )
+        //})
+
+
+
+
+
+
+        //var opcoes = document.getElementById("meuDropdown");
+        //var sistema = opcoes.options[opcoes.selectedIndex];
+        //var a = sistema.getElementsByTagName("option")[sistema].value;
+
+        //var x = document.getElementById("meuDropdown").selectedIndex;
+        //var sistema = (document.getElementsByTagName("option")[x].text);
+        //$('#Salvar').click(function () {
+        //    var url = "/Chamado/Create";
+
+        //    var objChamado = {
+        //        motivo: $("#Motivo").val(),
+        //        sistema: $("#SystemDropDown").val(),
+        //        descricao: $("#Descricao").val()
+        //        //anexo: {
+        //        //    extensao: $(".JPG"),
+        //        //    conteudoAnexo: $("Img")//
+
+        //    }
+        //    $.ajax(url, objChamado, function (data) {
+        //        $("#msg").html(data);
+        //    });
+
+
+        //var motivo = $("#Motivo").val();
+        //var system = $("#meuDropdown").val();
+        //var descricao = $("#Descricao").val();
+
+        //$.post(url, { Motivo: motivo, Descricao: descricao, Sistema: system }, function (data) {
+        //    $("#msg").html(data);
+
+
+        //})
+    </script>
+}

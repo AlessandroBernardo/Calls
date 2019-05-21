@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chamado.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Ambiente" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Desenvolvimento</Value>
+    </Setting>
+    <Setting Name="SiglaSistema" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CMDS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

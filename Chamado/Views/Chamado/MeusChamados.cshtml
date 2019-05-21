@@ -1,0 +1,58 @@
+﻿@*@{
+        Layout = null;
+    }*@
+
+
+
+@model IEnumerable<Chamado.Models.Chamado>
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Motivo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sistema)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Usuario)
+        </th>
+        <th>
+        @Html.DisplayNameFor(model => model.NumChamado)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Motivo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sistema)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumChamado)
+            </td>
+            <td>
+                <a id="chamaModal" data-toggle="modal" data-target="#modalEditarChamado" onclick="ModalEditar(item.IdChamado)">Editar</a> |
+                @Html.ActionLink("Details", "Details", new { id = item.IdChamado }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.IdChamado })
+            </td>
+        </tr>
+    }
+</table>
+
+

@@ -1,0 +1,74 @@
+﻿@using Util;
+@using Entity;
+@Html.IncludeVersionedJs("/Scripts/Anexo.js")
+
+@{
+    var vPrefixoModel = "Model";
+}
+
+@Html.Hidden("txtModelAnexo", vPrefixoModel)
+
+<form id="frmAnexo">
+    <div class="panel panel-primary">
+        <div class="panel-heading" style="text-align: center !important; padding-bottom: 0.8%; vertical-align: middle;">
+            <input style="padding-right:1%;" class="btn btn-default pull-right col-md-2" value="Add Anexo" type="button" onclick="fnAddAnexo(this);" />
+            <span>Anexos</span>
+        </div>
+
+        <div class="panel-body">
+            <div class="form-group row">
+                <table id="tblAnexos" class="table table-striped display">
+                    <thead>
+                        <tr>
+                            <th style="display:none;">IdAnexo</th>
+                            <th style="text-align:center;">Nome</th>
+                            <th style="text-align:center;">Data Inclusão</th>
+                            <th style="text-align:center;">Incluído por</th>
+                            <th style="text-align:center;">Abrir</th>
+                            <th style="text-align:center;">Excluir</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="trModeloAnexo" style="display:none;">
+                            <td style="display:none;"></td>
+                            <td style="text-align:center;">
+                                <span class="btn glyphicon glyphicon-file" onclick="fnSelecionarAnexo(this);"></span>
+                                <label style="padding-top: 0.5%; cursor: pointer;" onclick='fnSelecionarAnexo(this);'></label>
+                                <input type="file" style="display:none;" />
+                                <input type="text" style="display:none;" />
+                            </td>
+                            <td style="text-align:center;">@DateTime.Now.Date.ToString("d")</td>
+                            <td>@User.Identity.Name</td>
+                            <td style="text-align:center;"><a onclick="fnAbrirArquivo(this)"><span class="btn glyphicon glyphicon-paperclip"></span></a></td>
+                            <td style="text-align:center;"><span class="btn glyphicon glyphicon-trash" style="color:red;" onclick="fnConfirmarExcluirAnexo(this)"></span></td>
+                        </tr>
+
+                        @*@if (Model.Tb_Protocolo.Tb_Anexo.Count() > 0)
+                            {
+                                foreach (Mod_Anexo v in Model.Tb_Protocolo.Tb_Anexo)
+                                {
+                                    <tr style="display:none;">
+                                        <td style="display:none;">@v.IdAnexo</td>
+                                        <td style="text-align:center;">@v.NmArquivo</td>
+                                        <td style="text-align:center;">@v.DtInclusao.ToString("d")</td>
+                                        <td style="text-align:center;">@v.NmUsuarioInclusao</td>
+                                        <td style="text-align:center;"><a href="@Url.Action("ConsultarAnexo", "Home", new { pIdAnexo = @v.IdAnexo })" target="_blank"><span class="btn glyphicon glyphicon-paperclip"></span></a></td>
+                                        <td style="text-align:center;"><span class="btn glyphicon glyphicon-trash" style="color:red;" onclick="fnConfirmarExcluirAnexo(this)"></span></td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {*@
+                        <tr><td colspan="6">Não há anexos disponível.</td></tr>
+                        @*}*@
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>
+
+<div id="dlgExclusao" title="Alerta" style="display:none;">
+    <p id="dlgMensagem"></p>
+    <p id="dlgID" style="display:none;"></p>
+</div>

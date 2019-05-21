@@ -1,0 +1,27 @@
+﻿@model Chamado.Models.Anexo
+@{  
+    ViewBag.Title = "Anexo";
+}
+<label>se for o caso, nos mande um print da tela inteira onde ocorre o problema:</label>
+@*@using (Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{*@
+    @*<div class="well">
+        <table class="table table-striped">
+            <tr>*@
+
+                <form name="nome_do_form" enctype="multipart/form-data">
+                    <input type="text" class="form-control" id="name" placeholder="name" name="name">
+                    <input type="file" id="arquivo" name="arquivo" />
+                    <input type="submit" />
+                </form>
+
+
+                @*<td>Arquivo : </td>
+                    <td><input type="file" id="Arquivos" name="Arquivos" multiple /></td>*@
+                @*<td>
+                    <input type="text" style="max-width:100%" class="form-control" id="extensao" name="Anexo.extensao" placeholder="teste">
+                </td>*@
+            @*</tr>
+        </table>
+    </div>*@
+@*}*@

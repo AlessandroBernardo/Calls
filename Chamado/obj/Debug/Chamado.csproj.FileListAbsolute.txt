@@ -1,0 +1,618 @@
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Chamado.dll.config
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Chamado.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Chamado.pdb
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Antlr3.Runtime.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Newtonsoft.Json.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Owin.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Helpers.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Mvc.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Optimization.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Razor.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\WebGrease.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Helpers.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Mvc.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Optimization.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Razor.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Newtonsoft.Json.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.dll
+c:\users\m200633\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.pdb
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Antlr3.Runtime.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\EntityFramework.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Newtonsoft.Json.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Owin.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Helpers.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Http.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Mvc.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Optimization.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Razor.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.WebPages.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\WebGrease.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Helpers.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Mvc.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Optimization.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Razor.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.WebPages.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Newtonsoft.Json.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Http.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\EntityFramework.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\obj\Debug\Chamado.dll
+Z:\D5659S212\Usuarios\M205766\bkps\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Chamado.dll.config
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Chamado.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Chamado.pdb
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Antlr3.Runtime.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\EntityFramework.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Newtonsoft.Json.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Owin.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Helpers.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Http.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Mvc.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Optimization.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Razor.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.WebPages.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\WebGrease.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Helpers.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Mvc.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Optimization.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Razor.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.WebPages.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Newtonsoft.Json.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Http.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\EntityFramework.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\m205766\Desktop\Chamado\Chamado\obj\Debug\Chamado.dll
+C:\Users\m205766\Desktop\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Chamado.dll.config
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Chamado.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Chamado.pdb
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Antlr3.Runtime.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Newtonsoft.Json.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Owin.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Helpers.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Mvc.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Optimization.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Razor.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\WebGrease.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Helpers.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Mvc.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Optimization.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Razor.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Newtonsoft.Json.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.dll
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.Migrations.InitialCreate.resources
+C:\Users\SimulaDev\documents\visual studio 2013\Projects\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Chamado.dll.config
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Chamado.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Chamado.pdb
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Antlr3.Runtime.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\EntityFramework.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Newtonsoft.Json.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Owin.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Helpers.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Http.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Mvc.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Optimization.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Razor.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.WebPages.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\WebGrease.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Helpers.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Mvc.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Optimization.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Razor.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.WebPages.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Newtonsoft.Json.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Http.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\EntityFramework.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\obj\Debug\Chamado.Migrations.InitialCreate.resources
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\obj\Debug\Chamado.dll
+C:\Users\m205766\Downloads\ChamadoA\Chamado\Chamado\Chamado\obj\Debug\Chamado.pdb
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Chamado.dll.config
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Chamado.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Chamado.pdb
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Antlr3.Runtime.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\EntityFramework.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Newtonsoft.Json.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Owin.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Helpers.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Http.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Mvc.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Optimization.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Razor.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.WebPages.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\WebGrease.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Helpers.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Mvc.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Optimization.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Razor.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.WebPages.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Newtonsoft.Json.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Http.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\EntityFramework.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\obj\Debug\Chamado.Migrations.InitialCreate.resources
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\obj\Debug\Chamado.dll
+Z:\D5659S212\Usuarios\M205766\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Chamado\Chamado\bin\Chamado.dll.config
+C:\Chamado\Chamado\bin\Chamado.dll
+C:\Chamado\Chamado\bin\Chamado.pdb
+C:\Chamado\Chamado\bin\Antlr3.Runtime.dll
+C:\Chamado\Chamado\bin\EntityFramework.dll
+C:\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+C:\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+C:\Chamado\Chamado\bin\Newtonsoft.Json.dll
+C:\Chamado\Chamado\bin\Owin.dll
+C:\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+C:\Chamado\Chamado\bin\System.Web.Helpers.dll
+C:\Chamado\Chamado\bin\System.Web.Http.dll
+C:\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+C:\Chamado\Chamado\bin\System.Web.Mvc.dll
+C:\Chamado\Chamado\bin\System.Web.Optimization.dll
+C:\Chamado\Chamado\bin\System.Web.Razor.dll
+C:\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+C:\Chamado\Chamado\bin\System.Web.WebPages.dll
+C:\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+C:\Chamado\Chamado\bin\WebGrease.dll
+C:\Chamado\Chamado\bin\EntityFramework.xml
+C:\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+C:\Chamado\Chamado\bin\System.Web.Helpers.xml
+C:\Chamado\Chamado\bin\System.Web.Mvc.xml
+C:\Chamado\Chamado\bin\System.Web.Optimization.xml
+C:\Chamado\Chamado\bin\System.Web.Razor.xml
+C:\Chamado\Chamado\bin\System.Web.WebPages.xml
+C:\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+C:\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+C:\Chamado\Chamado\bin\Newtonsoft.Json.xml
+C:\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+C:\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+C:\Chamado\Chamado\bin\System.Web.Http.xml
+C:\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+C:\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Chamado\Chamado\obj\Debug\Chamado.Migrations.Alteracoes.resources
+C:\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+C:\Chamado\Chamado\obj\Debug\Chamado.dll
+C:\Chamado\Chamado\obj\Debug\Chamado.pdb
+E:\repos\Chamado\Chamado\bin\Chamado.dll.config
+E:\repos\Chamado\Chamado\bin\Chamado.dll
+E:\repos\Chamado\Chamado\bin\Chamado.pdb
+E:\repos\Chamado\Chamado\bin\Antlr3.Runtime.dll
+E:\repos\Chamado\Chamado\bin\EntityFramework.dll
+E:\repos\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+E:\repos\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+E:\repos\Chamado\Chamado\bin\Newtonsoft.Json.dll
+E:\repos\Chamado\Chamado\bin\Owin.dll
+E:\repos\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+E:\repos\Chamado\Chamado\bin\System.Web.Helpers.dll
+E:\repos\Chamado\Chamado\bin\System.Web.Http.dll
+E:\repos\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+E:\repos\Chamado\Chamado\bin\System.Web.Mvc.dll
+E:\repos\Chamado\Chamado\bin\System.Web.Optimization.dll
+E:\repos\Chamado\Chamado\bin\System.Web.Razor.dll
+E:\repos\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+E:\repos\Chamado\Chamado\bin\System.Web.WebPages.dll
+E:\repos\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+E:\repos\Chamado\Chamado\bin\WebGrease.dll
+E:\repos\Chamado\Chamado\bin\EntityFramework.xml
+E:\repos\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+E:\repos\Chamado\Chamado\bin\System.Web.Helpers.xml
+E:\repos\Chamado\Chamado\bin\System.Web.Mvc.xml
+E:\repos\Chamado\Chamado\bin\System.Web.Optimization.xml
+E:\repos\Chamado\Chamado\bin\System.Web.Razor.xml
+E:\repos\Chamado\Chamado\bin\System.Web.WebPages.xml
+E:\repos\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+E:\repos\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+E:\repos\Chamado\Chamado\bin\Newtonsoft.Json.xml
+E:\repos\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+E:\repos\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+E:\repos\Chamado\Chamado\bin\System.Web.Http.xml
+E:\repos\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+E:\repos\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\repos\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+E:\repos\Chamado\Chamado\obj\Debug\Chamado.Migrations.Alteracoes.resources
+E:\repos\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+E:\repos\Chamado\Chamado\obj\Debug\Chamado.dll
+E:\repos\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Chamado.dll.config
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Chamado.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Chamado.pdb
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Antlr3.Runtime.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\EntityFramework.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Newtonsoft.Json.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Owin.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Helpers.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Http.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Mvc.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Optimization.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Razor.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.WebPages.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\WebGrease.dll
+C:\Users\aless\Desktop\Chamado\Chamado\bin\EntityFramework.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Helpers.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Mvc.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Optimization.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Razor.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.WebPages.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Newtonsoft.Json.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Http.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aless\Desktop\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aless\Desktop\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+C:\Users\aless\Desktop\Chamado\Chamado\obj\Debug\Chamado.Migrations.Alteracoes.resources
+C:\Users\aless\Desktop\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+C:\Users\aless\Desktop\Chamado\Chamado\obj\Debug\Chamado.dll
+C:\Users\aless\Desktop\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Chamado.dll.config
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Chamado.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Chamado.pdb
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Antlr3.Runtime.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\EntityFramework.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\EntityFramework.SqlServer.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Newtonsoft.Json.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Owin.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Net.Http.Formatting.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Helpers.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Http.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Http.WebHost.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Mvc.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Optimization.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Razor.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.WebPages.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.WebPages.Razor.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\WebGrease.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\EntityFramework.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\EntityFramework.SqlServer.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Helpers.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Mvc.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Optimization.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Razor.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.WebPages.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.WebPages.Razor.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Newtonsoft.Json.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Antlr3.Runtime.pdb
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Net.Http.Formatting.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Http.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\System.Web.Http.WebHost.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\obj\Debug\Chamado.Migrations.Alteracoes.resources
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\obj\Debug\Chamado.dll
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\m205766\Downloads\Chamado (1)\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
