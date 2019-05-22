@@ -241,7 +241,7 @@ $("#fimMultidescricao").click(function () {
 
     $("div#multidescricao div.drop-container").each(function (item) {
 
-        var id = item.attr('#id');
+        var id = item.id;
 
         var descbotao = item.children('button#' + id).text();
         var inputval = item.children('input#' + id).val();
