@@ -103,8 +103,12 @@ $(function () {
     });
 
     $(document).on('click', '[data-iddiv]', function () {
-
+        
         $("#" + $(this).attr('data-iddiv')).remove();
+
+        if ($('#multidescricao div.drop-container').length == 0) {
+            $('#fimMultidescricao').hide();
+        }
     });
 
 
@@ -139,12 +143,7 @@ var Chamado = {
 
 }
 
-function excluirHist(iddiv) {
 
-    //preciso excluir a div inteira, botão, label e text
-    $("#" + iddiv).remove();
-
-}
 
 $("#voltaMotivo").click(function () {
     $("#estagioProj").modal('hide');
@@ -182,7 +181,7 @@ $("#DropDAcoes").change(function () {
         .append("<div class='drop-container clearfix' style='cursor: move' id='"
         + guid + "' class='row draggable' > <label class='col-sm-4 col-form-label' > <button type='button' class='btn btn-primary btn-xs'>"
         + x + "  </button> </label><div class='col-sm-8'><input class='form-control' id="
-        + x.replace(/ /g, '') + " type='text' /> <button type='button' style='position: relative;top: -37px; left: -73px;' class='close' data-iddiv='"
+        + x.replace(/ /g, '') + " type='text' /> <button type='button' style='position: relative;top: -37px; left: 13px;' class='close' data-iddiv='"
         + guid + "'  aria-hidden='true' >&times; </button> </div>");
 
     //$('#multidescricao').append("<div draggable=true style='cursor: move' id='" + guid + "' class='row draggable' > <label class='col-sm-4 col-form-label' > <button type='button' class='btn btn-primary btn-xs'>" + x + "  </button> </label><div class='col-sm-8'><input class='form-control' id=" + x.replace(/ /g, '') + " type='text' /> <button type='button' style='position: relative;top: -37px; left: -73px;' class='close' data-iddiv='" + guid + "'  aria-hidden='true' >&times; </button> </div>");
@@ -231,6 +230,31 @@ $("#DropDAcoes").change(function () {
 
 })
 
+$("#btnAcoes button").click(function () {
+    
+    //$("#acoesDivList").show();
+   
+    var x = $(this).text();
+
+    var guid = uuidv4();
+
+    $('#multidescricao')
+        .append("<div class='drop-container clearfix' style='cursor: move' id='"
+        + guid + "' class='row draggable' > <label class='col-sm-4 col-form-label' > <button type='button' class='btn btn-primary btn-xs'>"
+        + x + "  </button> </label><div class='col-sm-8'><input class='form-control' id="
+        + x.replace(/ /g, '') + " type='text' /> <button type='button' style='position: relative;top: -37px; left: 13px;' class='close' data-iddiv='"
+        + guid + "'  aria-hidden='true' >&times; </button> </div>");
+
+    //$('#multidescricao').append("<div draggable=true style='cursor: move' id='" + guid + "' class='row draggable' > <label class='col-sm-4 col-form-label' > <button type='button' class='btn btn-primary btn-xs'>" + x + "  </button> </label><div class='col-sm-8'><input class='form-control' id=" + x.replace(/ /g, '') + " type='text' /> <button type='button' style='position: relative;top: -37px; left: -73px;' class='close' data-iddiv='" + guid + "'  aria-hidden='true' >&times; </button> </div>");
+    
+    $('#multidescricao').sortable();
+
+    $("#" + x.replace(/ /g, '')).focusTextToEnd();
+
+    $("#fimMultidescricao").show();
+
+})
+
 $("#fimMultidescricao").click(function () {
 
     //quando o usuaário clicar, preciso achar uma forma de pegar
@@ -238,13 +262,15 @@ $("#fimMultidescricao").click(function () {
     //e setar no campo descrição
 
     var inputs = [];
+    debugger
+    $("div#multidescricao div.drop-container").each(function (index, item) {
 
-    $("div#multidescricao div.drop-container").each(function (item) {
+        var id = item.id;        
 
-        var id = item.id;
+        var contexto = $('div#'+id);
 
-        var descbotao = item.children('button#' + id).text();
-        var inputval = item.children('input#' + id).val();
+        var descbotao = $('button', contexto)[0].innerText;
+        var inputval = $('input', contexto).val();
 
         var combine = descbotao + " " + inputval;
 

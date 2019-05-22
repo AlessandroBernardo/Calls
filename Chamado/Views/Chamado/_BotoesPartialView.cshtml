@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Chamado.Models.Botao>
+
+@foreach (var botao in Model)
+{
+    <button type="button" id="@botao.Id" class="btn btn-primary btn-xs @botao.classe">@botao.Nome</button>    
+}
+
+

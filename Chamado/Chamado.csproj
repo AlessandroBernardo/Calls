@@ -205,6 +205,7 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Botao.cs" />
     <Compile Include="Models\Mod_Anexo.cs" />
     <Compile Include="Models\Chamado.cs" />
     <Compile Include="Models\Enums.cs" />
@@ -327,6 +328,7 @@
     <Content Include="Views\Chamado\_M_QualProjeto.cshtml" />
     <Content Include="Views\Chamado\_M_DescricaoChamado.cshtml" />
     <Content Include="Views\Shared\_Anexo.cshtml" />
+    <Content Include="Views\Chamado\_BotoesPartialView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -351,6 +351,18 @@ namespace Chamado.Controllers
                 }
             }
         }
+
+
+        public ActionResult RecuperarBotoes()
+        {
+            var botoes = new List<Botao>() {
+                new Botao { Nome = "Apertei botão", Id = Guid.NewGuid(), classe = "btn-success"},
+                new Botao { Nome = "Selecionei", Id = Guid.NewGuid()},
+                new Botao { Nome = "Selecionei 2", Id = Guid.NewGuid()}
+            };
+
+            return PartialView("_BotoesPartialView", botoes);
+        }
        
     }
 }

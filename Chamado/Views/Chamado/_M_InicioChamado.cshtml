@@ -170,13 +170,9 @@
                     
                     <div id="btnAcoes" class="form-inline">
 
-                       
-
-                        <button type="button" id="lns" style="background-color: green" class="btn btn-primary btn-xs">Loguei no sistema</button>
-                        <button type="button" id="aob" class="btn btn-primary btn-xs">apertei o botão</button>
-                        <button type="button" id="sao" class="btn btn-primary btn-xs">selecionei a opção</button>
-                        <button type="button" id="ent" class="btn btn-primary btn-xs">entrei na tela</button>
-                        <button type="button" id="cnm" class="btn btn-primary btn-xs">cliquei no menu</button>
+                       @{
+                           Html.RenderAction("RecuperarBotoes");
+                        }              
 
                     </div>
 
